@@ -1,0 +1,2 @@
+class CombinedProduct < CompositeProduct
+end

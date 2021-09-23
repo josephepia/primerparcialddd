@@ -1,0 +1,2 @@
+class InputProduct < SimpleProduct
+end

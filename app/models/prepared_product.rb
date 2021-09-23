@@ -1,0 +1,2 @@
+class PreparedProduct < CompositeProduct
+end
